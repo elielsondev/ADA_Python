@@ -13,3 +13,15 @@ Uma pequena demonstração das funções nativas `print()` e `input()`.
 #### 02 - Variáveis:
 Como os nossos dados podem ser ´salvos´ e quais tipos eles podem ser?
 [Variáveis](https://github.com/elielsondev/ADA_Python/blob/main/02%20-%20Vari%C3%A1veis/variaveis.py)
+
+#### 03 - Operadores Aritméticos e Booleanos:
+- Usando os operadores matemáticos (aritméticos) que são `+`, `-`, `*`, `/`, `%`, `//` e `**`.
+[Operadores Aritméticos](https://github.com/elielsondev/ADA_Python/blob/main/03%20-%20Operadores%20Aritm%C3%A9ticos%20e%20Booleanos/operadores_aritmetcos.py)
+
+- Usando os operadores booleanos como: `<`, `>`, `<=`, `>=`, `==`, `!=`
+[Operadores Booleanos](https://github.com/elielsondev/ADA_Python/blob/main/03%20-%20Operadores%20Aritm%C3%A9ticos%20e%20Booleanos/operadores_booleanos.py)
+
+#### 04 - Conversão de Tipos:
+Como realizar a conversão de um tipo de variável para outro tipo, ou seja, como fazer uma 'str' se tornar um 'int', ou um 'float' se tornar um 'int' e por ai vai.
+[Conversão de tipos](https://github.com/elielsondev/ADA_Python/blob/main/04%20-%20Convers%C3%A3o%20de%20Tipos/conversao_de_tipos.py) 
+
