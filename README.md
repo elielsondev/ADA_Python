@@ -30,3 +30,10 @@ Como realizar a conversão de um tipo de variável para outro tipo, ou seja, com
 Com esse conceito você pode alterar o resultado final, tudo depende da condição imposta para que o resultado em cada situação seja retornado.
 ``if``, ``elif`` e ``else``
 [Estruturas Condicionais](https://github.com/elielsondev/ADA_Python/blob/main/05%20-%20Estruturas%20Condicionais/condicionais.py)
+
+#### 06 - Laços de Repetição ``while`` e ``for``:
+Aprendendo a criar laços de repetição com o for e while, e dica sobre o range.
+[while](https://github.com/elielsondev/ADA_Python/blob/main/06%20-%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/usando_while.py)
+
+[for](https://github.com/elielsondev/ADA_Python/blob/main/06%20-%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/usando_for.py)
+
