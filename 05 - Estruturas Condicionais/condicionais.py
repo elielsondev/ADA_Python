@@ -29,5 +29,3 @@ elif media >= 5:
     print('Recuperação!, Sua média foi:', media)
 else:
     print('Reprovado(a)!, Sua média foi:', media)
-
-# 3) Exercício
