@@ -25,3 +25,6 @@ Como os nossos dados podem ser ´salvos´ e quais tipos eles podem ser?
 Como realizar a conversão de um tipo de variável para outro tipo, ou seja, como fazer uma 'str' se tornar um 'int', ou um 'float' se tornar um 'int' e por ai vai.
 [Conversão de tipos](https://github.com/elielsondev/ADA_Python/blob/main/04%20-%20Convers%C3%A3o%20de%20Tipos/conversao_de_tipos.py) 
 
+#### Estruturas condicionais com if, elif e else:
+Com esse conceito você pode alterar o resultado final, tudo depende da condição imposta para que o resultado em cada situação seja retornado.
+[Estruturas Condicionais](https://github.com/elielsondev/ADA_Python/blob/main/05%20-%20Estruturas%20Condicionais/condicionais.py)
