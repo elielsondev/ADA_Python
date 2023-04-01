@@ -33,6 +33,7 @@ Com esse conceito você pode alterar o resultado final, tudo depende da condiç�
 
 #### 06 - Laços de Repetição ``while`` e ``for``:
 Aprendendo a criar laços de repetição com o for e while, e dica sobre o range.
+
 [while](https://github.com/elielsondev/ADA_Python/blob/main/06%20-%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/usando_while.py)
 
 [for](https://github.com/elielsondev/ADA_Python/blob/main/06%20-%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/usando_for.py)
